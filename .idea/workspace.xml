@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f73fc86-edad-4003-beca-78bbbb91a403" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eUDEZN5SGaU9lnHaHmJh71OAN2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f73fc86-edad-4003-beca-78bbbb91a403" name="Default Changelist" comment="" />
+      <created>1594367167616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594367167616</updated>
+      <workItem from="1594367171376" duration="4242000" />
+      <workItem from="1594582364042" duration="1142000" />
+      <workItem from="1594618475536" duration="2096000" />
+      <workItem from="1594791097077" duration="5529000" />
+      <workItem from="1594809459549" duration="1352000" />
+      <workItem from="1594920074302" duration="2682000" />
+      <workItem from="1594964701211" duration="5649000" />
+      <workItem from="1594993161874" duration="129000" />
+      <workItem from="1595051212457" duration="55000" />
+      <workItem from="1597384498777" duration="42000" />
+      <workItem from="1603304942180" duration="197000" />
+      <workItem from="1603695667090" duration="215000" />
+      <workItem from="1603700186637" duration="601000" />
+      <workItem from="1605143218848" duration="12129000" />
+      <workItem from="1605377964157" duration="348000" />
+      <workItem from="1605709054771" duration="3893000" />
+      <workItem from="1605719204104" duration="1028000" />
+      <workItem from="1605763669901" duration="2216000" />
+      <workItem from="1605766431329" duration="3329000" />
+      <workItem from="1605851986981" duration="117000" />
+      <workItem from="1616098214949" duration="44000" />
+      <workItem from="1619112023743" duration="126000" />
+      <workItem from="1620023834230" duration="727000" />
+      <workItem from="1625296834726" duration="1491000" />
+      <workItem from="1626932899583" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="114" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605143584994">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="416" y="114" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.731@0.0.1366.731" timestamp="1605143584994" />
+    <state x="501" y="291" width="354" height="147" key="NewPhpFileDialog" timestamp="1605765885941">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="501" y="291" width="354" height="147" key="NewPhpFileDialog/0.0.1366.731@0.0.1366.731" timestamp="1605765885941" />
+  </component>
+</project>
